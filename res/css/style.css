@@ -1,0 +1,170 @@
+#moneyCounter{
+    border: 3.5px black solid;
+    display: flex;
+    width: 450px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 15px;
+    font-size: 25px;
+}
+
+#moneypng{
+    width: 50px;
+    display: flex;
+    margin-top: -3.25em;
+    margin-left: 36%;
+}
+
+#worldlevel{
+    height: 50px;
+    border: solid black 3.5px;
+    border-radius: 15px;
+    width: 200px;
+    margin-top: -2.1em;
+    display: flex;
+    font-size: 25px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40em;
+}
+
+#nevimco{
+    border: 3.5px black solid;
+    display: flex;
+    width: 200px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    margin-top: -1em ;
+    margin-left: 4em;
+    border-radius: 15px;
+    font-size: 25px;
+}
+
+#ostrov{
+    display: flex;
+    margin-left:10em;
+    margin-top: 9em;
+}
+
+#upgrades{
+    border: 3.5px black solid;
+    display: block;
+    position: absolute;
+    top: 110px;
+    left: 45px;
+    width: 300px;
+    height: 550px;
+    font-size: 25px;
+}
+
+#DPS{
+    border: 3.5px black solid;
+    display: flex;
+    padding: 5px;
+    height: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    align-items: center;
+    border-radius: 15px;
+    font-size: 25px;
+    position: absolute;
+    top: 75px;
+    left: 750px;
+}
+
+#DMG{
+    border: 3.5px black solid;
+    display: flex;
+    height: 50px;
+    padding: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    align-items: center;
+    border-radius: 15px;
+    font-size: 25px;
+    position: absolute;
+    top: 75px;
+    left: 590px;
+}
+
+#BIOME{
+    border: 3.5px black solid;
+    display: flex;
+    height: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    align-items: center;
+    border-radius: 15px;
+    font-size: 25px;
+    position: absolute;
+    top: 75px;
+    left: 1015px;
+}
+
+button{
+    padding: 11.8px;
+    font-size:25px;
+    width: 113.6%;
+    margin-left: -1.63em;
+    border: none;
+    border-bottom: 3.5px solid black;
+}
+
+#sword{
+    background-color: grey;
+}
+
+#farmer{
+    background: rgba(165, 79, 42, 0.89);
+}
+
+#srdce{
+    width:250px;
+    position: absolute;
+    left: 1000px;
+    top: 255px;
+}
+
+#health{
+    border: 3.5px black solid;
+    display: flex;
+    padding: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    font-size: 25px;
+    position: absolute;
+    left: 1155px;
+    top: 305px;
+}
+
+#killed{
+    border: 3.5px black solid;
+    display: flex;
+    padding: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    font-size: 25px;
+    position: absolute;
+    left: 1100px;
+    top:450px
+}
+
+#goblin1{
+    justify-content: center;
+    width: 250px;
+    display: flex;
+    position: absolute;
+    top: 150px;
+    left: 600px;
+}
